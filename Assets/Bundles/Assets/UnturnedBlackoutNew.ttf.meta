@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ccdc22017c16a074c94746e543c8010a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Roag-Medium
+  fontNames:
+  - Roag-Medium
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3ef036f6bd095974a8cf10cba6b35a4d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
