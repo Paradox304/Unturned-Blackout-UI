@@ -1,4 +1,4 @@
-# Unturned-Blackout-UI
+# Unturned Blackout UI
 Link to the plugin, most of the readme is there.
 https://github.com/Paradox304/UnturnedBlackout
 
